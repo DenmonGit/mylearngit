@@ -1,6 +1,0 @@
-Firefox 无法找到在 e.firefoxchina.cn 的服务器。
-
-    请检查该地址是否输入错误，比如将"www.example.com"错写成"ww.example.com"
-    如果您无法载入任何页面，请检查您计算机的网络连接。
-    如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 Firefox 已被授权访问网络。
-
