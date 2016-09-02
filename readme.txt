@@ -4,3 +4,4 @@ Git IS free software.
 the GItHub.
 我正在学习git
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
